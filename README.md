@@ -1,5 +1,9 @@
-# ESP_Plants_Node
+# 花花草草硬件节点
 基于ESP12F|ESP07的土壤湿度，空气温湿度检测节点 
+
+## [ESP_Plants_Node](https://github.com/bilibilifmk/ESP_Plants_Node)为硬件端 [Plants_Node](https://github.com/bilibilifmk/Plants_Node)为服务端 分为两个项目管理
+
+
 # 还在开发！！！ 无法使用状态！！！
 
 ![img](./img/fm.png) 
